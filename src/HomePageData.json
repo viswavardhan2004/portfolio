@@ -8,7 +8,7 @@
   },
   "aboutData": {
     "imgLink": "/images/section/gupta.jpg",
-    "cvPdf": "https://drive.google.com/file/d/1pO6XQYZxnlETHJj95ZyXwQoVbbL2wsVl/view?usp=sharing",
+    "cvPdf": "https://drive.google.com/file/d/16AZezxbdpcEwmk87QHpw-rYF39cxU7fX/view?usp=sharing",
     "title": "Hi There! I'm Kandula Viswa Vardhan",
     "subtitle": "Full Stack Developer",
     "text": "I am a passionate Full Stack Developer with expertise in both frontend and backend technologies. I specialize in creating responsive web applications using modern frameworks and technologies. My goal is to build efficient, scalable, and user-friendly applications that solve real-world problems.",
@@ -147,7 +147,7 @@
             "Order tracking system",
             "Admin dashboard for inventory management"
           ],
-          "githubLink": "https://github.com/Narasimhagupta2004/GroceryHUB.git",
+          "githubLink": "https://github.com/viswavardhan2004/React-js-project",
           "liveDemo": "https://groceryhub-fy1l.onrender.com"
         }
       },
@@ -172,7 +172,7 @@
             "Deal sharing functionality",
             "Analytics dashboard"
           ],
-          "githubLink": "https://github.com/Narasimhagupta2004/DealFinder.git",
+          "githubLink": "https://github.com/viswavardhan2004/php-ecommerce",
           "liveDemo": "https://deal-finder-demo.com"
         }
       },
@@ -197,7 +197,7 @@
             "Attendee management",
             "Event analytics"
           ],
-          "githubLink": "https://github.com/Narasimhagupta2004/Event-Elite-Planners.git",
+          "githubLink": "https://github.com/viswavardhan2004/Elite-Event-Planners",
           "liveDemo": "https://event-management-demo.com"
         }
       },
@@ -222,7 +222,7 @@
             "QR code analytics",
             "Export functionality"
           ],
-          "githubLink": "https://github.com/Narasimhagupta2004/Qr-Generator.git",
+          "githubLink": "https://github.com/viswavardhan2004/Qr-code-Generator",
           "liveDemo": "https://qr-generator-demo.com"
         }
       },
@@ -353,7 +353,7 @@
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/kandula-viswa-vardhan"
+      "link": "https://www.linkedin.com/in/kandula-viswa-vardhahan/"
     },
     {
       "icon": "github",
